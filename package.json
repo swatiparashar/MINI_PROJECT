@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "firebase": "^11.0.2",
+    "react-bootstrap": "^2.10.6",
+    "react-google-button": "^0.8.0",
+    "react-router-dom": "^7.0.1"
+  }
+}
